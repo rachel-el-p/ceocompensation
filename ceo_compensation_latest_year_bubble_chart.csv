@@ -1,0 +1,29 @@
+Company,pay,who,year
+Intel,"26,300,000",ceo ,2022
+Apple,"99,420,097",ceo ,2022
+Google,,ceo ,2022
+Zoom,"1,115,089",ceo ,2022
+Goldman Sachs,"25,000,000",ceo ,2022
+JPMorgan Chase,"34,500,000",ceo ,2022
+Morgan Stanley,"31,500,000",ceo ,2022
+Intel,,worker ,2022
+Apple,"84,493",worker ,2022
+Google,,worker ,2022
+Zoom,"188,261",worker ,2022
+Goldman Sachs,,worker ,2022
+JPMorgan Chase,,worker ,2022
+Morgan Stanley,,worker ,2022
+Intel,"178,590,400",ceo ,2021
+Apple,"98,734,394",ceo ,2021
+Google,"6,322,599",ceo ,2021
+Zoom,"949,748",ceo ,2021
+Goldman Sachs,"39,545,072",ceo ,2021
+JPMorgan Chase,"84,435,729",ceo ,2021
+Morgan Stanley,"34,941,635",ceo ,2021
+Intel,"104,400",worker ,2021
+Apple,"68,254",worker ,2021
+Google,"295,884",worker ,2021
+Zoom,,worker ,2021
+Goldman Sachs,"165,828",worker ,2021
+JPMorgan Chase,"92,112",worker ,2021
+Morgan Stanley,"137,069",worker ,2021
